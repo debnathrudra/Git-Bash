@@ -1,1 +1,3 @@
-myLogs.log
+/myLogs.log
+*.log
+ignore/
